@@ -21,7 +21,7 @@ I didn't think this would be difficult, but I couldn't figure out how to take us
 The .split() function would take all variables with a space and split them then the list would be made into a list of integers with the int(x[i]).
 
 ### ValueErrors
-So at this point, I knew While loop allowed me to keep asking the user a question till they get it right, then if else statements to determine whether the while loop keep going (continue) or finishes (break).
+So at this point, I knew While loop allowed me to keep asking the user a question till they get it right, then if else statements to determine whether the while loop kept going (continue) or finished (break).
 The next challenge was when the user would throw an error. This happened during the creation of X and Y variable.
 
 ![Y to int](https://user-images.githubusercontent.com/99676174/154582500-7812e1b1-5b55-4146-9b08-433333d06b5c.PNG)
