@@ -31,6 +31,7 @@ This is the part I struggle with. I understand that the code is "trying" somethi
 ### Finding user errors
 What I talked about above took care of most of the work. Now, I spent a lot of time just trying to make the code throw an error.
 Basically, if they entered no data, wrong type, or didn't answer the question, I wanted it to be addressed. 
+
 ![color](https://user-images.githubusercontent.com/99676174/154583020-c04a902f-1302-46fa-bdda-ec4d61ee2be3.PNG)
 
 In this section about colors, I made sure they choice from the list, actually entered something, and wasn't a number. Because if they entered something wrong, later down the road when the program tries to build the graph, it would throw an error.
