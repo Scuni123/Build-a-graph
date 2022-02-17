@@ -23,6 +23,7 @@ The .split() function would take all variables with a space and split them then 
 ### ValueErrors
 So at this point, I knew While loop allowed me to keep asking the user a question till they get it right, then if else statements to determine whether the while loop keep going (continue) or finishes (break).
 The next challenge was when the user would throw an error. This happened during the creation of X and Y variable.
+
 ![Y to int](https://user-images.githubusercontent.com/99676174/154582500-7812e1b1-5b55-4146-9b08-433333d06b5c.PNG)
 
 This is the part I struggle with. I understand that the code is "trying" something and if it throws an error, it goes to the "except" statement. That way your code doesn't end. I guess the reason this throws an error the way I want is because if the for loop is unable to split the data as an integer, then then it would throw an error which the try except clause catches.
